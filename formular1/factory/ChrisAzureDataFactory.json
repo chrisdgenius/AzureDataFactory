@@ -1,0 +1,9 @@
+{
+	"name": "ChrisAzureDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5cb4236b-8de5-49e1-8bcc-f26e442fa5e5",
+		"tenantId": "db037518-1fc1-4ec7-96e4-99a3655403ec"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer4",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://ergast.com/api/f1/2011/5/laps.json?limit=1000",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
